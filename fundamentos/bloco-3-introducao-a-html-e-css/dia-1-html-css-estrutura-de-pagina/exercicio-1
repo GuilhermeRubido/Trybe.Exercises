@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>1° Página HTML</title>
+</head>
+<body>
+    <h1>Conteúdos da Trybe</h1>
+    <h2>Estes são alguns dos conteúdos que veremos ao longo do curso:</h2>
+<ul>
+   <li>UNIX</li>
+   <li>BASH</li>
+   <li>CSS</li>
+   <li>HTML</li>
+   <li>JavaScript</li>
+<li>Front-End</li>
+<li>Back-End</li>
+<br>
+
+<img src="https://cdn.mos.cms.futurecdn.net/sdSHp2akMYc4EoZAoRE77k-1200-80.jpg" alt="Imagem de um terminal com várias linhas de código" width="300px" >
+   
+
+<p>
+       Estes conteúdos serão abordados ao decorrer do curso e, de maneira organizada, estarão dividios na forma de módulos que estarão dispostos na seguinte ordem de avanço: <strong> Fundamentos de Desenvolvimento Web <strong>, <strong> Desenvolvimento Front-End </strong> , </strong> Desenvolvimento Back-End </strong> e, por fim, o módulo de <strong> Ciência da Computação </strong> .
+       <br><br>
+       Dessa forma, o aluno terá, ao final do curso, um arcabouço teórico robusto compreendendo tudo aquilo que será necessário em sua vida profissional como desenvolvedor <strong> full-stack <strong> .
+  
+    </p>
+<h1>Então, vamos lá! </h1>
+    <img src="./Coding.jpg" alt="Pessoa codando" width="300px" >
+    <br><br>
+    <a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Frick-astley-never-gonna-give-you-up-rickroll-dance-moves-dancing-guy-gif-20856902&psig=AOvVaw1oDF_4o5DnGlA7NVeKSFiM&ust=1645740705586000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCODjhIPslvYCFQAAAAAdAAAAABAD" target="_blank">Clique aqui para inciar a sua viagem!</a>
+</ul>
+</body>
+</html>
